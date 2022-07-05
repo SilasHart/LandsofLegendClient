@@ -1,0 +1,15 @@
+﻿{
+  "Host": "162.199.84.71",
+  "Port": 5400,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "LoginMusic.mp3",
+  "MenuBackground": "background.png",
+  "IntroImages": [],
+  "UpdateUrl": "",
+  "MouseCursor": ""
+}
