@@ -245,7 +245,7 @@
   "Errors": {
     "displaynotsupported": "Invalid Display Configuration!",
     "displaynotsupportederror": "Fullscreen {00} resolution is not supported on this device!",
-    "errorencountered": "The Intersect Client has encountered an error and must close. Error information can be found in logs/errors.log",
+    "errorencountered": "The Lands of Legend Client has encountered an error and must close. Error information can be found in logs/errors.log",
     "notconnected": "Not connected to the game server. Is it online?",
     "notsupported": "Not Supported!",
     "openallink": "https://goo.gl/Nbx6hx",

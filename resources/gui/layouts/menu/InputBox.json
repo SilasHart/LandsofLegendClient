@@ -51,7 +51,7 @@
     "MouseDownSound": "octave-tap-professional.wav"
   },
   "Title": {
-    "Bounds": "0,0,70,29",
+    "Bounds": "0,0,138,29",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
