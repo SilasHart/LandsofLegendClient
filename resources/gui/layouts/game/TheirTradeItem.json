@@ -18,6 +18,9 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "Texture": "tradeitem.png",
+  "HoverSound": null,
+  "LeftMouseClickSound": null,
+  "RightMouseClickSound": null,
   "Children": {
     "TradeIcon": {
       "Bounds": "1,1,32,32",
@@ -39,7 +42,9 @@
       "ToolTipFont": null,
       "ToolTipTextColor": "",
       "Texture": "",
-	        "HoverSound": "octave-tap-resonant.wav",
+      "HoverSound": "octave-tap-resonant.wav",
+      "LeftMouseClickSound": null,
+      "RightMouseClickSound": null
     },
     "TradeValue": {
       "Bounds": "29,24,5,11",

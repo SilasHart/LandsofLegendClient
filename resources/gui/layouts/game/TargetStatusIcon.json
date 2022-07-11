@@ -18,6 +18,9 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "Texture": "status.png",
+  "HoverSound": null,
+  "LeftMouseClickSound": null,
+  "RightMouseClickSound": null,
   "Children": {
     "StatusIcon": {
       "Bounds": "1,1,32,32",
@@ -38,7 +41,10 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": ""
+      "Texture": "",
+      "HoverSound": null,
+      "LeftMouseClickSound": null,
+      "RightMouseClickSound": null
     },
     "DurationLabel": {
       "Bounds": "29,24,5,11",
